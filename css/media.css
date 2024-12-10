@@ -1,0 +1,17 @@
+@media screen and (max-width:768px) {
+  .container{
+    grid-template-areas: 
+     "iphone-6s"
+     "learn-more"
+     "keyboard"
+     "i-mac"
+     "i-cloud"
+     "games"
+     "experience"
+     "twitter"
+     "popular"
+     "vision"
+     ;
+  }
+  
+}
